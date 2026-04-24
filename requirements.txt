@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+streamlit
+plotly
+streamlit-option-menu
+requests
+Pillow
+python-dotenv
+pyarrow
