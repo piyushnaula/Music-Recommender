@@ -1,4 +1,4 @@
-# Music Recommendation System
+# Music Recommender
 
 A full-featured music recommendation web app built with FastAPI + Streamlit.
 Dataset: 62,317 Spotify tracks across 7 languages (1971–2024).
